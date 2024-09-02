@@ -6,3 +6,13 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 rabbitmq:management-alpine
 rabbitmq:3.13.3-management-alpine
+nacos/nacos-server:latest
+amir20/dozzle:latest
+mysql:latest
+cooderl/wewe-rss-sqlite:latest
+amir20/dozzle:latest
+caddy:latest
+redis:latest
+postgres:latest
+sqlpad/sqlpad:latest
+flowable/flowable-ui:latest
