@@ -16,3 +16,4 @@ redis:latest
 postgres:latest
 sqlpad/sqlpad:latest
 flowable/flowable-ui:latest
+neosmemo/memos:latest
