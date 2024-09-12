@@ -17,4 +17,4 @@ postgres:latest
 sqlpad/sqlpad:latest
 flowable/flowable-ui:latest
 neosmemo/memos:latest
-fatedier/frps
+fatedier/frps:v0.60.0
