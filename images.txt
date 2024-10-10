@@ -19,3 +19,4 @@ flowable/flowable-ui:latest
 neosmemo/memos:latest
 fatedier/frps:v0.60.0
 apache/rocketmq:latest
+mattermost/focalboard
