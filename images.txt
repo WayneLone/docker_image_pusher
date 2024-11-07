@@ -12,6 +12,7 @@ mysql:latest
 cooderl/wewe-rss-sqlite:latest
 amir20/dozzle:latest
 caddy:latest
+caddy:builder
 redis:latest
 postgres:latest
 sqlpad/sqlpad:latest
