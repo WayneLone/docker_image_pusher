@@ -22,3 +22,4 @@ fatedier/frps:v0.60.0
 apache/rocketmq:latest
 mattermost/focalboard
 imsyy/dailyhot-api
+yidadaa/chatgpt-next-web
