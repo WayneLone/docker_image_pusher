@@ -24,3 +24,4 @@ mattermost/focalboard
 imsyy/dailyhot-api
 yidadaa/chatgpt-next-web
 ghcr.io/caramelfur/picsur:latest
+czyt/siyuan
