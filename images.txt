@@ -26,3 +26,4 @@ imsyy/dailyhot-api:latest
 ghcr.io/caramelfur/picsur:latest
 czyt/siyuan:latest
 mereith/van-nav:latest
+jellyfina/lsky:latest
