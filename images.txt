@@ -27,3 +27,4 @@ ghcr.io/caramelfur/picsur:latest
 czyt/siyuan:latest
 mereith/van-nav:latest
 jellyfina/lsky:latest
+dpage/pgadmin4:latest
