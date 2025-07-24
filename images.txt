@@ -28,3 +28,5 @@ czyt/siyuan:latest
 mereith/van-nav:latest
 jellyfina/lsky:latest
 dpage/pgadmin4:latest
+alpine:latest
+golang:alpine
