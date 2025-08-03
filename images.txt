@@ -13,6 +13,7 @@
 #amir20/dozzle:latest
 #caddy:latest
 #caddy:builder
+caddy:alpine
 #redis:latest
 postgres:latest
 #sqlpad/sqlpad:latest
