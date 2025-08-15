@@ -31,4 +31,3 @@ jellyfina/lsky:latest
 dpage/pgadmin4:latest
 alpine:latest
 golang:alpine
-yourselfhosted/slash
