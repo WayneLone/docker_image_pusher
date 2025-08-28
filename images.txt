@@ -25,9 +25,9 @@ neosmemo/memos:latest
 imsyy/dailyhot-api:latest
 #yidadaa/chatgpt-next-web
 ghcr.io/caramelfur/picsur:latest
-czyt/siyuan:latest
+nfew/siyuan:latest
 mereith/van-nav:latest
-jellyfina/lsky:latest
+#jellyfina/lsky:latest
 dpage/pgadmin4:latest
-alpine:latest
-golang:alpine
+#alpine:latest
+#golang:alpine
